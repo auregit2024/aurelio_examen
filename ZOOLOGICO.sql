@@ -1,7 +1,7 @@
 
     CREATE TABLE zoologico(
         id_zoologico INT NOT NULL AUTO_INCREMENT,
-        nombre VARCHAR(50)NOT NULL,
+        nombre_completo VARCHAR(50)NOT NULL,
         nit VARCHAR(30) NOT NULL,
         direccion VARCHAR(30)NOT NULL,
         telefono VARCHAR(15)NOT NULL,
